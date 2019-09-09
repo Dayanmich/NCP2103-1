@@ -17,7 +17,7 @@ namespace VP_election
             InitializeComponent();
         }
         int vp_siang=0, vp_eycee=0;
-
+        //NCP2103 - TEST COMMIT
         private void button1_Click(object sender, EventArgs e)
         {
            
@@ -67,6 +67,10 @@ namespace VP_election
                     
                 }            }
             MessageBox.Show("Election Results: \nJames Michael Sianghio: " + vp_siang.ToString() + "\nEycee Cay Muñoz: " + vp_eycee.ToString());
+        }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("Alay na guys");
         }
     }
 }
