@@ -68,9 +68,15 @@ namespace VP_election
                 }            }
             MessageBox.Show("Election Results: \nJames Michael Sianghio: " + vp_siang.ToString() + "\nEycee Cay Muñoz: " + vp_eycee.ToString());
         }
+
+        private void Form1_Load_1(object sender, EventArgs e)
+        {
+
+        }
+
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Alay na guys");
+            MessageBox.Show("Alay na guys","Alay",MessageBoxButtons.OK,MessageBoxIcon.Information);
         }
     }
 }

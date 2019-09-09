@@ -126,7 +126,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::VP_election.Properties.Resources.wallpaper3;
-            this.ClientSize = new System.Drawing.Size(1350, 729);
+            this.ClientSize = new System.Drawing.Size(1284, 701);
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.radioButton2);
@@ -138,6 +138,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "CoESS 2019-2020 VP Internal Election";
+            this.Load += new System.EventHandler(this.Form1_Load_1);
             this.ResumeLayout(false);
             this.PerformLayout();
 
