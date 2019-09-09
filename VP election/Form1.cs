@@ -17,7 +17,7 @@ namespace VP_election
             InitializeComponent();
         }
         int vp_siang=0, vp_eycee=0;
-        //Dianne Pineda
+        //Alay to ---> JHONAS
         private void button1_Click(object sender, EventArgs e)
         {
            
