@@ -1,0 +1,9 @@
+E:\Users\LENOVO\Documents\Visual Studio 2015\Projects\VP election\VP election\bin\Debug\VP election.exe.config
+E:\Users\LENOVO\Documents\Visual Studio 2015\Projects\VP election\VP election\bin\Debug\VP election.exe
+E:\Users\LENOVO\Documents\Visual Studio 2015\Projects\VP election\VP election\bin\Debug\VP election.pdb
+E:\Users\LENOVO\Documents\Visual Studio 2015\Projects\VP election\VP election\obj\Debug\VP election.csprojResolveAssemblyReference.cache
+E:\Users\LENOVO\Documents\Visual Studio 2015\Projects\VP election\VP election\obj\Debug\VP_election.Form1.resources
+E:\Users\LENOVO\Documents\Visual Studio 2015\Projects\VP election\VP election\obj\Debug\VP_election.Properties.Resources.resources
+E:\Users\LENOVO\Documents\Visual Studio 2015\Projects\VP election\VP election\obj\Debug\VP election.csproj.GenerateResource.Cache
+E:\Users\LENOVO\Documents\Visual Studio 2015\Projects\VP election\VP election\obj\Debug\VP election.exe
+E:\Users\LENOVO\Documents\Visual Studio 2015\Projects\VP election\VP election\obj\Debug\VP election.pdb
